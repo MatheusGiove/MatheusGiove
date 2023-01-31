@@ -7,7 +7,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
 />
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgiove&layout=compact"
-/>
 </picture>
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgiove&layout=compact)](https://github.com/matheusgiove/github-readme-stats)"
+/>

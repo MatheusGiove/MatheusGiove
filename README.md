@@ -11,7 +11,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgiove&layout=compact&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgiove&theme=transparent"
 />
 <img align="center" src="https://github.com/anuraghazra/github-readme-stats"
 />

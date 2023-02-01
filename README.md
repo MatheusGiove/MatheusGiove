@@ -1,4 +1,4 @@
-# ✌🏼 Olá me chamo **Matheus Faria Giove** ✌🏼
+# 🎈🎈🎈 Bem-vindo ao meu perfil 🎈🎈🎈<br> ✌🏼😉Me chamo **Matheus Faria Giove**😉✌🏼
 <img style="display: inline_block" align="right" alt="Matheus-pic" width="200" height="200" style="border-radius: 150px;" src="https://cdn.discordapp.com/attachments/1070030542902407249/1070104860118229032/eu.gif" align="rigth" width="160" height="160">
 
 * Sou **estudante** de front-end com 19 anos. Meus principais conhecimentos são em HTML, CSS e JavaScript.

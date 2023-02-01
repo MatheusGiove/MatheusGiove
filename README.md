@@ -49,3 +49,7 @@
    <a href="https://t.me/farioso08" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" alt="Matheus-Telegram"></a>
    <a href="https://www.instagram.com/matheusgiove/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Matheus-Instagram"></a>
 </div>
+
+### ℹ MAIS INFORMAÇÕES ℹ
+
+[![Matheus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusgiove&theme=vision-friendly-dark)](https://github.com/matheusgiove/github-readme-stats)

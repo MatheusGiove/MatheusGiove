@@ -52,4 +52,11 @@
 
 ### ℹ MAIS INFORMAÇÕES ℹ
 
-[![Matheus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusgiove&theme=vision-friendly-dark)](https://github.com/matheusgiove/github-readme-stats)
+<picture>
+  <source 
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=matheusgiove&theme=vision-friendly-dark"
+/>
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats" 
+/>
+</picture>
+<div><a href="https://wakatime.com/@MatheusGiove" target="_blank" rel="author"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="PERFIL WAKATIME"</a></div>

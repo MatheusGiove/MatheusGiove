@@ -60,3 +60,9 @@
 />
 </picture>
 <div><a href="https://wakatime.com/@MatheusGiove" target="_blank" rel="author"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="PERFIL WAKATIME"</a></div>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusGiove&theme=vision-friendly-dark&hide_border=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MatheusGiove&icon=2&color=0)](https://visitcount.itsvg.in)

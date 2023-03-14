@@ -9,6 +9,7 @@
 
 * Sinta-se à vontade para entrar em contato comigo, sempre estou procurando novas oportunidades de colaboração e aprendizado!
 
+* [Meu Currículo](https://matheusgiove.github.io)
 <hr>
 
 <p><strong></strong></p>

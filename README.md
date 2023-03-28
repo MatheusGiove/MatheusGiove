@@ -61,7 +61,9 @@
 />
 </picture>
 <div>
-  <a href="https://wakatime.com/@f113fcc0-9e89-4504-b9bf-c167170e9d11"><img src="https://wakatime.com/badge/user/f113fcc0-9e89-4504-b9bf-c167170e9d11.svg" alt="Total time coded since Jan 31 2023" /></a>
+  <a href="https://wakatime.com/@f113fcc0-9e89-4504-b9bf-c167170e9d11">
+    <img src="https://wakatime.com/badge/user/f113fcc0-9e89-4504-b9bf-c167170e9d11.svg" alt="Total time coded since Jan 31 2023" />
+  </a>
 </div>
 
 <br>

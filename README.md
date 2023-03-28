@@ -60,7 +60,11 @@
   <img align="center" src="https://github.com/anuraghazra/github-readme-stats" 
 />
 </picture>
-<div><a href="https://wakatime.com/@MatheusGiove" target="_blank" rel="author"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="PERFIL WAKATIME"</a></div>
+<div>
+  <a href="https://wakatime.com/@f113fcc0-9e89-4504-b9bf-c167170e9d11"><img src="https://wakatime.com/badge/user/f113fcc0-9e89-4504-b9bf-c167170e9d11.svg" alt="Total time coded since Jan 31 2023" /></a>
+</div>
+
+<br>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusGiove&theme=vision-friendly-dark&hide_border=false)
 

@@ -10,25 +10,20 @@
 * Sinta-se à vontade para entrar em contato comigo, sempre estou procurando novas oportunidades de colaboração e aprendizado!
 
 * [Meu Currículo](https://matheusgiove.github.io)
-<hr>
 
-<p><strong></strong></p>
+<hr>
 
 <picture>
   <source 
   srcset="https://github-readme-stats.vercel.app/api?username=matheusgiove&show_icons=true&theme=vision-friendly-dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
-/>
+  media="(prefers-color-scheme: dark)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
 </picture>
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgiove&theme=vision-friendly-dark"
-/>
-<img align="center" src="https://github.com/anuraghazra/github-readme-stats"
-/>
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgiove&theme=vision-friendly-dark"/>
+<img align="center" src="https://github.com/anuraghazra/github-readme-stats"/>
 </picture>
 
 <hr>
@@ -55,14 +50,12 @@
 
 <picture>
   <source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=matheusgiove&theme=vision-friendly-dark"
-/>
-  <img align="center" src="https://github.com/anuraghazra/github-readme-stats" 
-/>
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=matheusgiove&theme=vision-friendly-dark"/>
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats"/>
 </picture>
 <div>
   <a href="https://wakatime.com/@f113fcc0-9e89-4504-b9bf-c167170e9d11">
-    <img src="https://wakatime.com/badge/user/f113fcc0-9e89-4504-b9bf-c167170e9d11.svg" alt="Total time coded since Jan 31 2023" />
+    <img src="https://wakatime.com/badge/user/f113fcc0-9e89-4504-b9bf-c167170e9d11.svg" alt="Total time coded since Jan 31 2023"/>
   </a>
 </div>
   

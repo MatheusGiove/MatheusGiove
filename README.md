@@ -1,15 +1,13 @@
-# 🎈🎈🎈 Bem-vindo ao meu perfil 🎈🎈🎈<br> ✌🏼😉Me chamo **Matheus Faria Giove**😉✌🏼
+# Olá! <br> Me chamo **Matheus Faria Giove** 😉✌🏼
 <img style="display: inline_block" align="right" alt="Matheus-pic" width="200" height="200" style="border-radius: 150px;" src="https://cdn.discordapp.com/attachments/1070030542902407249/1070104860118229032/eu.gif" align="rigth" width="160" height="160">
 
-* Sou **estudante** de front-end e tenho 19 anos. Meus principais conhecimentos são em HTML, CSS e JavaScript.
+* [Meu portifólio](https://matheusgiove.github.io)
 
-* Também tenho conhecimento **básico** em UI Design.
+* Tenho 19 anos e atualmente estudo programação com foco em front-end. Meus principais conhecimentos são em **HTML**, **CSS**, **JavaScript** e também possuo conhecimento em **UX/UI Design**.
 
 * Atualmente, estou buscando aprimorar minhas habilidades **criando projetos** interessantes na área de front-end. 
 
-* Sinta-se à vontade para entrar em contato comigo, sempre estou procurando novas oportunidades de colaboração e aprendizado!
-
-* [Meu Currículo](https://matheusgiove.github.io)
+* Também busco oportunidades de trabalho para poder aplicar meus conhecimentos, pois sinto que posso contribuir significativamente em projetos reais. 
 
 <hr>
 

@@ -7,7 +7,7 @@
 
 * Atualmente, estou buscando aprimorar minhas habilidades **criando projetos** interessantes na área de front-end. 
 
-* Também busco oportunidades de trabalho para poder aplicar meus conhecimentos, pois sinto que posso contribuir significativamente em projetos reais. 
+* Também procuro oportunidade de trabalho para poder aplicar meus conhecimentos em um projeto real. 
 
 <hr>
 

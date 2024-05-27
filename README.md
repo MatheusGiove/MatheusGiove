@@ -3,7 +3,7 @@
 
 * [Meu portifólio](https://matheusgiove.github.io)
 
-* Tenho 20 anos e atualmente estudo programação com foco em front-end. Meus principais conhecimentos são: **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS**, e **UX/UI Design**, e também possuo experiência em **Análise de Dados** com **Excel** e **Power BI**
+* Tenho 20 anos e atualmente estudo programação com foco em front-end. Meus principais conhecimentos são: **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS**, e **UX/UI Design**, e também possuo experiência em **Análise de Dados** com **Excel**, **Power BI** e **Python**.
 
 * Procuro oportunidade de trabalho para poder aplicar meus conhecimentos em projetos reais, e assim aprimorá-los. 
 
